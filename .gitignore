@@ -1,5 +1,4 @@
 node_modules/
-build/
 storybook-build/
 .idea/
 
@@ -7,3 +6,4 @@ storybook-build/
 .env.local
 .DS_Store
 .eslintcache
+yarn.lock
